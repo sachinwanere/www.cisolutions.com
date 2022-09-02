@@ -1,0 +1,21 @@
+.box{
+    width: 400px;
+    height: 600px;
+   margin: 50px;
+padding: 50px;
+background-color: rgb(27, 139, 131);
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+.box {
+    border-right-color: chocolate;
+    border-left-color: blue;
+    border-top-color:red;
+    border-bottom-color: purple;
+    border-style: dashed dotted double solid;
+    border-width: 30px;
+border-radius: 70px 30px 40px 40px;
+     box-shadow: 30px;
+    
+     
+}
