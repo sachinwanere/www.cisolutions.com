@@ -1,0 +1,56 @@
+.page{
+    background-color: lightgray;
+    height: 700px;
+    width: 100%;
+}
+
+.head{
+    background-color: #08768d;
+    height: 100px;
+    width: 100%;
+    text-transform:capitalize ;
+    font-weight: bold;
+    font-style:italic ;
+    font-display: inherit;
+    padding-top: 30px;
+    text-decoration-color: white;
+    color: white;
+}
+.side{
+
+    height: 600px;
+    width: 30%;
+    float: left;
+
+}
+.text{
+    height: 100px;
+    width: 60%;
+
+    float: left;
+    padding-left: 600px;
+    
+}
+.form2{
+    height: 500px;
+    width: 30%;
+
+    float: left;
+
+}
+.form3{
+    width: 30%;
+    height: 500px;
+  float: left;
+
+}
+
+
+.submit{
+    height: 50px;
+    width: 600px;
+    padding-bottom: 20%;
+    float: initial;
+}
+
+
