@@ -1,7 +1,11 @@
 .page{
     background-color: lightgray;
-    height: 700px;
-    width: 100%;
+    height: 650px;
+    width: 70%;
+    position: absolute;
+    top: 138px;
+    left: 400px;
+    
 }
 
 .head{
@@ -18,7 +22,7 @@
 }
 .side{
 
-    height: 600px;
+    height:650px;
     width: 30%;
     float: left;
 
@@ -28,29 +32,41 @@
     width: 60%;
 
     float: left;
-    padding-left: 600px;
-    
+    padding-left: 100px;
+font-size: medium;    
+padding-bottom: 50px;
 }
 .form2{
-    height: 500px;
-    width: 30%;
-
+    height: 600px;
+    width: 35%;
+padding: 20px;
+margin-left: 20px;
     float: left;
 
 }
 .form3{
-    width: 30%;
-    height: 500px;
+    width: 35%;
+    height: 600px;
   float: left;
-
+padding: 20px;
 }
 
 
 .submit{
     height: 50px;
-    width: 600px;
-    padding-bottom: 20%;
-    float: initial;
+    width: 95%;
+     padding-bottom: 90px;
+     align-items: center;
+     margin-top: 50px;
+}
+.thankyou{
+    scroll-behavior: inherit;
+    width: 95%;
+    height: 40px;
+    padding-bottom: 2px;
+    float: left;
+    font-style: italic; 
+    color: rgb(232, 17, 9);
 }
 
 
